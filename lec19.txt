@@ -1,0 +1,14 @@
+return MaterialApp(home: Scaffold(
+      backgroundColor: Colors.teal,
+      body: SafeArea(
+        child: Column(
+          children: [
+            CircleAvatar(
+              backgroundImage: AssetImage('images/raees.png'),
+              radius:70.0,
+            )
+
+          ],
+        ),
+      ),
+    ),
