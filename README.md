@@ -1,2 +1,0 @@
-# Cardapp
-Class_task
